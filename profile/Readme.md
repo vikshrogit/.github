@@ -1,6 +1,6 @@
 ### Hi there 👋, VIKSHRO is an Indian Software/Web development organisation with all IT Services.
 #### Our mission is to collabrate freelancer into team to work and deploy products with RnDs.
-![Our mission is to collabrate freelancer into team to work and deploy products with RnDs.](https://vikshro.in/assets/img/vikshro_ogimg.jpg)
+![Our mission is to collabrate freelancer into team to work and deploy products with RnDs.](vikshro_hero.jpg)
 
 We are strive to understand the importance of the software we're going to create. We will go ahead and design and develop the software to meet the criteria they identified and the users' needs. The products they work on may include desktop solutions, mobile applications, SaaS products, and more.
 
